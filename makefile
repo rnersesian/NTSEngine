@@ -1,7 +1,7 @@
 # Compiler and flags
 CC = gcc
 CFLAGS = -Wall -g -MMD
-LDFLAGS = `sdl2-config --libs` -lSDL2_image
+LDFLAGS = `sdl2-config --libs` -lSDL2_image -lm
 
 # Directories
 SRC_DIR = src

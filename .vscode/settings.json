@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "nts_game.h": "c",
+        "sdl.h": "c",
+        "nts_math.h": "c",
+        "nts_entity.h": "c"
+    }
+}
